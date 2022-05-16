@@ -1,3 +1,6 @@
+import { Component } from 'react';
+import Spinner from '../spinner/spinner';
+import ErrorMessage from '../errorMessage/ErrorMessage';
 import './charList.scss';
 import abyss from '../../resources/img/abyss.jpg';
 
